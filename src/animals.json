@@ -1,0 +1,82 @@
+[
+  {
+    "fullname": "Mandu the amazing cat",
+    "age": 9
+  },
+  {
+    "fullname": "Mia the black cat",
+    "age": 9
+  },
+  {
+    "fullname": "Leeloo the growing dog",
+    "age": 1
+  },
+  {
+    "fullname": "Toothless the trained dragon",
+    "age": 14
+  },
+  {
+    "fullname": "ScoobyDoo the wondering dog",
+    "age": 58
+  },
+  {
+    "fullname": "Horsey the horsing horse",
+    "age": 10
+  },
+  {
+    "fullname": "Buddy the playful dog",
+    "age": 3
+  },
+  {
+    "fullname": "Molly the loyal dog",
+    "age": 7
+  },
+  {
+    "fullname": "Whiskers the curious cat",
+    "age": 4
+  },
+  {
+    "fullname": "Luna the mysterious cat",
+    "age": 5
+  },
+  {
+    "fullname": "Daisy the energetic dog",
+    "age": 2
+  },
+  {
+    "fullname": "Oliver the wise cat",
+    "age": 6
+  },
+  {
+    "fullname": "Thunder the strong horse",
+    "age": 8
+  },
+  {
+    "fullname": "Star the bright horse",
+    "age": 12
+  },
+  {
+    "fullname": "Bolt the fast dog",
+    "age": 1
+  },
+  {
+    "fullname": "Bella the gentle cat",
+    "age": 3
+  },
+  {
+    "fullname": "Gizmo the clever cat",
+    "age": 2
+  },
+  {
+    "fullname": "Rocky the brave dog",
+    "age": 4
+  },
+  {
+    "fullname": "Sunny the friendly horse",
+    "age": 7
+  },
+  {
+    "fullname": "Nala the adventurous cat",
+    "age": 1
+  }
+]
